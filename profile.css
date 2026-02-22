@@ -1,0 +1,37 @@
+body{
+    background-color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header{
+    text-align: center;
+    margin: auto;
+}
+.Profile-Box{
+    width: auto;
+    margin: auto;
+    padding:20px;
+    border: 2px solid white;
+    background-color: white;
+    text-align: center;
+
+}
+
+.profile-box img{
+    width: auto;
+    height: auto;
+    border-radius: 50%;
+    margin-bottom: 20px;
+
+}
+.bio{
+    font-size: medium;
+    margin-top: auto;
+    
+}
+
+footer{
+    text-align: center;
+    margin-top:auto;
+    font-size: medium;
+}
