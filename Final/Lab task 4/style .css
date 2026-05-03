@@ -1,0 +1,30 @@
+body{
+    font-family: Arial;
+    margin: 40px;
+}
+
+h2, h3{
+    text-align: center;
+}
+
+form{
+    width: 300px;
+    margin: auto;
+}
+
+input{
+    width: 100%;
+    padding: 8px;
+    margin: 5px 0;
+}
+
+table{
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+th, td{
+    padding: 10px;
+}
